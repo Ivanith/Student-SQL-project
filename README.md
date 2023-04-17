@@ -1,1 +1,1 @@
-#Sklep tradycyjny i internetowy sprzedaży obuwia
+# Sklep tradycyjny i internetowy sprzedaży obuwia
